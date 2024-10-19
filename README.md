@@ -1,2 +1,2 @@
 # Grafana_SENAI-2024-10
- Slides e conteúdos sobre testes de APIs REST com Postman, k6 e ZAP apresentados em evento no SENAI no dia 17/08/2024. 
+Slides e conteúdos sobre monitoramento e observabilidade de recursos computacionais com Grafana apresentados em evento no SENAI no dia 19/10/2024.
